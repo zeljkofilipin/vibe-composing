@@ -18,6 +18,7 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 - [guitar-solo.txt](guitar-solo.txt) — Guitar solo
 - [guitar-scale.txt](guitar-scale.txt) — C major scale for guitar
 - [guitar-fretboard.txt](guitar-fretboard.txt) — C major fretboard for guitar
+- [bass-solo.txt](bass-solo.txt) — Bass guitar solo
 - [bass-scale.txt](bass-scale.txt) — C major scale for bass guitar
 - [bass-fretboard.txt](bass-fretboard.txt) — C major fretboard for bass guitar
 - [ukulele-chords.txt](ukulele-chords.txt) — Ukulele chords (strummed)
