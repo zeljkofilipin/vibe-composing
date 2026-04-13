@@ -12,4 +12,4 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 
 ## Format
 
-Tablatures are stored as plain text files using standard ASCII tab notation.
+Tablatures are stored as plain text files using standard tab notation.

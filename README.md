@@ -4,7 +4,7 @@ Original music compositions represented as text-based guitar and bass guitar tab
 
 ## About
 
-This repository accompanies a talk about using Claude Code as a tool for music composition. Compositions are stored as plain text files using standard ASCII tab notation.
+This repository accompanies a talk about using Claude Code as a tool for music composition. Compositions are stored as plain text files using standard tab notation.
 
 ## Song
 
