@@ -1,6 +1,6 @@
 # vibe-composing
 
-Original music compositions represented as text-based guitar and bass guitar tablatures, composed with the help of [Claude Code](https://claude.ai/code).
+Original music compositions represented as text-based guitar, bass guitar, and ukulele tablatures, composed with the help of [Claude Code](https://claude.ai/code).
 
 ## About
 
@@ -20,6 +20,11 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 - [guitar-fretboard.txt](guitar-fretboard.txt) — C major fretboard for guitar
 - [bass-scale.txt](bass-scale.txt) — C major scale for bass guitar
 - [bass-fretboard.txt](bass-fretboard.txt) — C major fretboard for bass guitar
+- [ukulele-chords.txt](ukulele-chords.txt) — Ukulele chords (strummed)
+- [ukulele-arpeggio.txt](ukulele-arpeggio.txt) — Ukulele chords (arpeggiated)
+- [ukulele-solo.txt](ukulele-solo.txt) — Ukulele solo
+- [ukulele-scale.txt](ukulele-scale.txt) — C major scale for ukulele
+- [ukulele-fretboard.txt](ukulele-fretboard.txt) — C major fretboard for ukulele
 
 ## License
 

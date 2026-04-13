@@ -1,6 +1,6 @@
 # vibe-composing
 
-A repository of original music compositions represented as text-based guitar and bass guitar tablatures.
+A repository of original music compositions represented as text-based guitar, bass guitar, and ukulele tablatures.
 
 ## Project goal
 
@@ -12,8 +12,5 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 
 ## Format
 
-Tablatures are stored as plain text files using standard tab notation. File names use an instrument prefix (guitar-, bass-). When adding, removing, or renaming files, update the Files section in README.md.
+Tablatures are stored as plain text files using standard tab notation. File names use an instrument prefix (guitar-, bass-, ukulele-). When adding, removing, or renaming files, update the Files section in README.md.
 
-## Planned
-
-- Add ukulele tablatures.
