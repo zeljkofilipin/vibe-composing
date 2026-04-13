@@ -13,11 +13,13 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 ## Files
 
 - [bassline.txt](bassline.txt) — Bass guitar root notes
-- [chords.txt](chords.txt) — Guitar chords (strummed)
-- [arpeggio.txt](arpeggio.txt) — Guitar chords (arpeggiated)
-- [solo.txt](solo.txt) — Guitar solo
+- [guitar-chords.txt](guitar-chords.txt) — Guitar chords (strummed)
+- [guitar-arpeggio.txt](guitar-arpeggio.txt) — Guitar chords (arpeggiated)
+- [guitar-solo.txt](guitar-solo.txt) — Guitar solo
 - [guitar-scale.txt](guitar-scale.txt) — C major scale for guitar
+- [guitar-fretboard.txt](guitar-fretboard.txt) — C major fretboard for guitar
 - [bass-scale.txt](bass-scale.txt) — C major scale for bass guitar
+- [bass-fretboard.txt](bass-fretboard.txt) — C major fretboard for bass guitar
 
 ## License
 
