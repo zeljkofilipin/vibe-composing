@@ -5,3 +5,4 @@ G:    g     a     b  Ⓒ     d     e  f     g     a     b  Ⓒ     d
 D:    d     e  f     g     a     b  Ⓒ     d     e  f     g     a
 A:    a     b  Ⓒ     d     e  f     g     a     b  Ⓒ     d     e  f
 E:    e  f     g     a     b  Ⓒ     d     e  f     g     a     b  Ⓒ
+               ·     ·     ·     ·        :        ·     ·     ·
