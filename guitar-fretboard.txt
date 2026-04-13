@@ -1,0 +1,9 @@
+C Major Scale (Fretboard)
+
+Fret: 0  1  2  3  4  5  6  7  8  9  10 11 12
+e:    E  F     G     A     B  C     D     E
+B:    B  C     D     E  F     G     A     B
+G:    G     A     B  C     D     E  F     G
+D:    D     E  F     G     A     B  C     D
+A:    A     B  C     D     E  F     G     A
+E:    E  F     G     A     B  C     D     E
