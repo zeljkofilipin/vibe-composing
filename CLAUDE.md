@@ -12,4 +12,8 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 
 ## Format
 
-Tablatures are stored as plain text files using standard tab notation.
+Tablatures are stored as plain text files using standard tab notation. File names use an instrument prefix (guitar-, bass-). When adding, removing, or renaming files, update the Files section in README.md.
+
+## Planned
+
+- Add ukulele tablatures.
