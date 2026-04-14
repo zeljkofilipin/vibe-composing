@@ -12,5 +12,5 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 
 ## Format
 
-Tablatures are stored as plain text files using standard tab notation. File names use an instrument prefix (guitar-, bass-, ukulele-). Fretboard diagrams use 20 frets for guitar and bass, 12 frets for ukulele. When adding, removing, or renaming files, update the Files section in README.md.
+Tablatures are stored as plain text files using standard tab notation. File names use an instrument prefix (guitar-, bass-, ukulele-). Fretboard diagrams use 20 frets for guitar and bass, 12 frets for ukulele. Solo files come in two versions: simple (half notes, limited fret range) and advanced (quarter notes, wider fret range). When adding, removing, or renaming files, update the Files section in README.md.
 

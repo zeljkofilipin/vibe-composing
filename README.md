@@ -15,15 +15,18 @@ A rock ballad in C major. The entire song uses the chord progression C - Am - Dm
 - [bassline.txt](bassline.txt) — Bass guitar root notes
 - [guitar-chords.txt](guitar-chords.txt) — Guitar chords (strummed)
 - [guitar-arpeggio.txt](guitar-arpeggio.txt) — Guitar chords (arpeggiated)
-- [guitar-solo.txt](guitar-solo.txt) — Guitar solo
+- [guitar-solo-simple.txt](guitar-solo-simple.txt) — Guitar solo (simple)
+- [guitar-solo-advanced.txt](guitar-solo-advanced.txt) — Guitar solo (advanced)
 - [guitar-scale.txt](guitar-scale.txt) — C major scale for guitar
 - [guitar-fretboard.txt](guitar-fretboard.txt) — C major fretboard for guitar
-- [bass-solo.txt](bass-solo.txt) — Bass guitar solo
+- [bass-solo-simple.txt](bass-solo-simple.txt) — Bass guitar solo (simple)
+- [bass-solo-advanced.txt](bass-solo-advanced.txt) — Bass guitar solo (advanced)
 - [bass-scale.txt](bass-scale.txt) — C major scale for bass guitar
 - [bass-fretboard.txt](bass-fretboard.txt) — C major fretboard for bass guitar
 - [ukulele-chords.txt](ukulele-chords.txt) — Ukulele chords (strummed)
 - [ukulele-arpeggio.txt](ukulele-arpeggio.txt) — Ukulele chords (arpeggiated)
-- [ukulele-solo.txt](ukulele-solo.txt) — Ukulele solo
+- [ukulele-solo-simple.txt](ukulele-solo-simple.txt) — Ukulele solo (simple)
+- [ukulele-solo-advanced.txt](ukulele-solo-advanced.txt) — Ukulele solo (advanced)
 - [ukulele-scale.txt](ukulele-scale.txt) — C major scale for ukulele
 - [ukulele-fretboard.txt](ukulele-fretboard.txt) — C major fretboard for ukulele
 
